@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.json.use.type.headers",
+      "type": "java.lang.String",
+      "description": "Description for spring.json.use.type.headers."
+  }
+] }
